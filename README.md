@@ -7,5 +7,5 @@ Serving website files with any hierarchy just with index.html as initial file pl
 -> Install dependencies<br/>
     npm install
 
--> Serve on localhost:5000<br/>
+-> Serve on localhost:5050<br/>
     npm start
